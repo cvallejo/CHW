@@ -1,5 +1,4 @@
 <?php
 
-echo "comienza ChileWine.cl!";
- echo "funciona?";
- ?>
+  echo "comienza ChileWine.cl!";
+?>
