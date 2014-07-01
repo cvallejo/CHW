@@ -1,6 +1,6 @@
 <?php
 
-  echo "comienza ChileWine.cl!";
+  echo "Comienza ChileWine.cl!";
   echo "<br>";
   echo "en serio?";
 ?>
